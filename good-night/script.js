@@ -178,7 +178,7 @@ function typeMessage() {
     const originalText = message.textContent;
     // Add variations of the message for the loop
     const messages = [
-        "It's time to rest, cutieee! 😘",
+        "Nga xinh dep, ngu ngonnnn 😘",
         "Sweet dreams, pookie! 💤",
         "Good night, lil star! 🌟",
         "Sleep tight, darling! 😴",
